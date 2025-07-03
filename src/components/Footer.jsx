@@ -21,8 +21,8 @@ const Footer = () => {
           </div>
           <div className="footer-section">
             <h3>Contato</h3>
-            <p>📧 contato@et3solutions.com</p>
-            <p>📱 (81) 99999-9999</p>
+            <p>📧 suporte@et3solutions.com</p>
+            <p>📱 (81) 97340-8668</p>
             <p>📍 Caruaru, PE - Brasil</p>
           </div>
         </div>
